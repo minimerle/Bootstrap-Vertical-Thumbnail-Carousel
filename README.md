@@ -1,4 +1,4 @@
- [![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.png?theme=shields.io)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
+ 
 
  Bootstrap Vertical Thumbnail Carousel version (1.0.0)
 ======================================
