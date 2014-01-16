@@ -1,4 +1,5 @@
- Bootstrap Vertical Thumbnail Carousel version (1.0.0)[![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.png?theme=shields.io)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
+ [![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.png?theme=shields.io)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
+ Bootstrap Vertical Thumbnail Carousel version (1.0.0)[![devDependency Status]
 ======================================
 
 Twitter  Bootstrap Vertical Thumbnail Carousel which allow user to add Carousel vertically 
