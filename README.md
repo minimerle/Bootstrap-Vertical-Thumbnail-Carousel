@@ -11,3 +11,7 @@ This plugin works well in every browser, Tested on Below Listed Browsers
 
   If you found this helpfull, please fork and contribute for more functions.
   If you have any query, you can personaly contact me on contact@tutorialdrive.org
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tutorialdrive/bootstrap-vertical-thumbnail-carousel/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
