@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tutorialdrive/Bootstrap-Vertical-Thumbnail-Carousel.png?branch=master)](https://travis-ci.org/tutorialdrive/Bootstrap-Vertical-Thumbnail-Carousel)
+
  Bootstrap Vertical Thumbnail Carousel version (1.0.0)
 ======================================
 
