@@ -1,6 +1,7 @@
-
  Bootstrap Vertical Thumbnail Carousel version (1.0.0)
 ======================================
+##This ripo. is now available for Bootstrap 3, https://github.com/tutorialdrive/Bootstrap-3-Vertical-Thumbnail-Carousel 
+
 
 Twitter  Bootstrap Vertical Thumbnail Carousel which allow user to add Carousel vertically 
 This plugin works well in every browser, Tested on Below Listed Browsers
