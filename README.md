@@ -1,3 +1,5 @@
+#This Plugin is now deprecated. Please visit https://github.com/tutorialdrive/Bootstrap-Vertical-Image-Showcase With updates
+
  Bootstrap Vertical Thumbnail Carousel version (1.0.0)
 ======================================
 ##This ripo. is now available for Bootstrap 3, https://github.com/tutorialdrive/Bootstrap-3-Vertical-Thumbnail-Carousel 
